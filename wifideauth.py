@@ -47,7 +47,7 @@ ___  ___  ___  ___    ___  _ _    ___  _ _  ___  ___  ___  ___   ___  _ _
 print("\n****************************************************************")
 print("\n* Created by Winston Ighodaro                                  *")
 print("\n* https://www.cybergeneration.tech                             *")
-print("\n* https://www.tiktok.com/cybergen2                             *")
+print("\n* https://x.com/officialwhyte22                                *")
 print("\n****************************************************************")
 
 
